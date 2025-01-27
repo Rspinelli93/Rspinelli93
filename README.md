@@ -25,8 +25,10 @@ This transformative journey has led me to proudly pursue my career as a Full-Sta
 
 🌱 Future Goals
 I’m excited to keep growing and learning in this dynamic field. In the future, I plan to dive into C 🛠️, to expand my understanding of low-level programming and computer science fundamentals.
+----------------------------------------------------------
 
 🌟 What Drives Me
 I love solving problems, creating intuitive user experiences, and continuously learning new technologies. My goal is to merge my passion for coding with the dedication I’ve brought to every kitchen I’ve worked in.
+----------------------------------------------------------
 
 Feel free to explore my repositories and connect with me—I’d love to collaborate and grow together in this exciting tech world!
