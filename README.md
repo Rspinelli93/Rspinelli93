@@ -61,10 +61,10 @@ I also enjoy a lot indie games, and music. I can be a real geek about this haha 
 
 ## 🗣️ Languages
 
-![English](https://img.shields.io/badge/-English-00247D?logo=britishairways&logoColor=white)
-![Spanish](https://img.shields.io/badge/-Spanish-AA151B?logo=spain&logoColor=white)
-![French](https://img.shields.io/badge/-French-0055A4?logo=france&logoColor=white)
-![Italian](https://img.shields.io/badge/-Italian-009246?logo=italia&logoColor=white)ß
+![English](https://img.shields.io/badge/-English-00247D?logoColor=white)
+![Spanish](https://img.shields.io/badge/-Spanish-AA151B?logoColor=white)
+![French](https://img.shields.io/badge/-French-0055A4?logoColor=white)
+![Italian](https://img.shields.io/badge/-Italian-009246?logoColor=white)
 
 Thanks for stopping by — feel free to check out my projects or reach out if you want to talk about 42, code, or food.
 
