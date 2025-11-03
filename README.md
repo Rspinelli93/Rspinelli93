@@ -1,11 +1,14 @@
-# 👋 Welcome to My GitHub
+# 👋 Welcome Forastero
 
 ---
 
 Hi, I’m Riccardo, or Richard — currently studying at [École 42](https://42lausanne.ch/).  
 
+
 It’s a project-based school where you learn by doing, working with others, and figuring things out by yourself.  
+
 Here are some of the things we learn there:
+
 
 ![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white)
 ![Algorithms](https://img.shields.io/badge/-Algorithms-555555?logo=hackerrank&logoColor=white)
@@ -16,13 +19,19 @@ Here are some of the things we learn there:
 ![Teamwork](https://img.shields.io/badge/-Peer%20Learning-0A66C2?logo=42&logoColor=white)
 ![Problem Solving](https://img.shields.io/badge/-Problem%20Solving-6C63FF?logo=leetcode&logoColor=white)
 
+
 I’m focused on building a solid understanding of how things work under the hood.
+
 So far, this school has been extremely challenging, but I would recommend it to everyone.
+
 **Bref:** it’s extremely exigent, but forgiving at the same time. I love it.
+
 
 ---
 
+
 ## 💻 Web Development
+
 
 Before joining 42, I spent some time learning **web development** and building small projects using the **MERN stack** at [The Bridge](https://thebridge.tech/):
 
@@ -38,13 +47,24 @@ Before joining 42, I spent some time learning **web development** and building s
 
 I still like building things for the web when I have time.
 
+
 ---
 
 ## 🌿 Outside of Code
 
-Outside of coding, I like cooking (I’ve been doing it professionally for about 15 years), traveling, and learning random stuff just because it’s interesting.
+
+Outside of coding, I like cooking (I’ve been doing it professionally for about 15 years), specially for my friends.
+
+I also enjoy a lot indie games, and music. I can be a real geek about this haha :)
 
 ---
+
+## 🗣️ Languages
+
+![English](https://img.shields.io/badge/-English-00247D?logo=britishairways&logoColor=white)
+![Spanish](https://img.shields.io/badge/-Spanish-AA151B?logo=spain&logoColor=white)
+![French](https://img.shields.io/badge/-French-0055A4?logo=france&logoColor=white)
+![Italian](https://img.shields.io/badge/-Italian-009246?logo=italia&logoColor=white)ß
 
 Thanks for stopping by — feel free to check out my projects or reach out if you want to talk about 42, code, or food.
 
