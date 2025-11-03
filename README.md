@@ -1,4 +1,4 @@
-# 👋 Welcome Forastero
+# Hello, wanderer
 
 ---
 
