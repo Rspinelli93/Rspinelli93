@@ -1,11 +1,11 @@
-# Hello, wanderer
+# Hola
 
 ---
 
-Hi, I’m Riccardo, or Richard — currently studying at [École 42](https://42lausanne.ch/).  
+I’m Richard — currently studying at [École 42](https://42lausanne.ch/).  
 
 
-It’s a project-based school where you learn by doing, working with others, and figuring things out by yourself.  
+It’s a project-based school where you learn by doing, working with others, and figuring things out by yourself and together with your colleagues.
 
 Here are some of the things we learn there:
 
@@ -24,7 +24,7 @@ I’m focused on building a solid understanding of how things work under the hoo
 
 So far, this school has been extremely challenging, but I would recommend it to everyone.
 
-**Bref:** it’s extremely exigent, but forgiving at the same time. I love it.
+Extremely exigent, but forgiving at the same time. I love it.
 
 
 ---
@@ -66,5 +66,5 @@ I also enjoy a lot indie games, and music. I can be a real geek about this haha 
 ![French](https://img.shields.io/badge/-French-0055A4?logoColor=white)
 ![Italian](https://img.shields.io/badge/-Italian-009246?logoColor=white)
 
-Thanks for stopping by — feel free to check out my projects or reach out if you want to talk about 42, code, or food.
+Thanks for stopping by — feel free to check out my projects or reach out if you want to talk about 42, code, food, games or whatever honestly.
 
