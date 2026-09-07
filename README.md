@@ -1,70 +1,36 @@
-# Hola
+# Hi, I’m Richard 👋
 
----
+**42 Lausanne student · C & C++ · Full-stack web development**
 
-I’m Richard — currently studying at [École 42](https://42lausanne.ch/).  
+I’m Riccardo Spinelli, also known as Richard. I study at École 42 Lausanne, where I’m building a deeper understanding of memory, processes, algorithms, and how software works under the hood.
 
+Before 42, I studied web development at The Bridge and built projects with React, Node.js, Express, and MongoDB. My repositories follow that journey: from browser experiments and APIs to Unix systems programming and computer graphics.
 
-It’s a project-based school where you learn by doing, working with others, and figuring things out by yourself and together with your colleagues.
+[42 Common Core](https://github.com/Rspinelli93/42-Common-Core) · [All projects](https://github.com/Rspinelli93/Rspinelli93/blob/main/PROJECTS.md) · [Portfolio source](https://github.com/Rspinelli93/portfolio)
 
-Here are some of the things we learn there:
+## Start here
 
+| Project | What you’ll find | Stack |
+| --- | --- | --- |
+| [42 Common Core](https://github.com/Rspinelli93/42-Common-Core) | A curriculum map with linked project repositories and exam practice | C, C++, Unix |
+| [miniRT](https://github.com/Rspinelli93/miniRT) | A collaborative ray tracer with scene parsing, geometric intersections, lighting, and shadows | C, MiniLibX |
+| [Minishell](https://github.com/Rspinelli93/Minishell) | A collaborative shell with built-ins, pipelines, redirections, and variable expansion | C, Unix, Readline |
+| [Webserv](https://github.com/Rspinelli93/webserv) | A collaborative HTTP server with configuration parsing, multiplexed connections, and CGI | C++98, sockets |
+| [Push Swap](https://github.com/Rspinelli93/push_swap) | Sorting with two stacks and a restricted instruction set | C, algorithms |
+| [Le Zie — frontend](https://github.com/Rspinelli93/le-zie-front) | A second-hand clothing showroom with product browsing and an administration interface | React, Vite |
+| [Le Zie — backend](https://github.com/Rspinelli93/le-zie) | Product management, administrator authentication, and newsletter integration | Node.js, Express, MongoDB |
 
-![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white)
-![Algorithms](https://img.shields.io/badge/-Algorithms-555555?logo=hackerrank&logoColor=white)
-![Data Structures](https://img.shields.io/badge/-Data%20Structures-555555?logo=geeksforgeeks&logoColor=white)
-![Shell](https://img.shields.io/badge/-Shell-4EAA25?logo=gnu-bash&logoColor=white)
-![Unix](https://img.shields.io/badge/-Unix-333333?logo=linux&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-![Teamwork](https://img.shields.io/badge/-Peer%20Learning-0A66C2?logo=42&logoColor=white)
-![Problem Solving](https://img.shields.io/badge/-Problem%20Solving-6C63FF?logo=leetcode&logoColor=white)
+## What I work with
 
+**Systems:** C · C++ · memory management · processes · signals · threads · Make · Git  
+**Web:** JavaScript · React · Redux Toolkit · Node.js · Express · MongoDB · SQL · HTML · CSS
 
-I’m focused on building a solid understanding of how things work under the hood.
+My [project directory](https://github.com/Rspinelli93/Rspinelli93/blob/main/PROJECTS.md) groups the smaller exercises by topic, while the [Common Core hub](https://github.com/Rspinelli93/42-Common-Core) follows my 42 project path.
 
-So far, this school has been extremely challenging, but I would recommend it to everyone.
+## A little beyond code
 
-Extremely exigent, but forgiving at the same time. I love it.
+I’ve spent about 15 years cooking professionally, and I still love cooking for friends. Outside the kitchen and the terminal, you’ll usually find me enjoying indie games or music.
 
+I speak **English, Spanish, French, and Italian**.
 
----
-
-
-## 💻 Web Development
-
-
-Before joining 42, I spent some time learning **web development** and building small projects using the **MERN stack** at [The Bridge](https://thebridge.tech/):
-
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-
-I still like building things for the web when I have time.
-
-
----
-
-## 🌿 Outside of Code
-
-
-Outside of coding, I like cooking (I’ve been doing it professionally for about 15 years), specially for my friends.
-
-I also enjoy a lot indie games, and music. I can be a real geek about this haha :)
-
----
-
-## 🗣️ Languages
-
-![English](https://img.shields.io/badge/-English-00247D?logoColor=white)
-![Spanish](https://img.shields.io/badge/-Spanish-AA151B?logoColor=white)
-![French](https://img.shields.io/badge/-French-0055A4?logoColor=white)
-![Italian](https://img.shields.io/badge/-Italian-009246?logoColor=white)
-
-Thanks for stopping by — feel free to check out my projects or reach out if you want to talk about 42, code, food, games or whatever honestly.
-
+Thanks for visiting. Feel free to explore the code, follow my progress, or talk with me about 42, web development, food, games, and music.
